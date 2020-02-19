@@ -1,7 +1,8 @@
 
 # Boston and Seattle AirBnB Udacity Project
 
-#####[https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle/blob/master/README.md#motivation](https://www.google.com)
+
+[Motivation](https://www.google.com)
 ---------------
 ### This project tries to answer three major questions regarding AirBnB data within these two cities.
 1. What are the key differences between Boston and Seattle AirbBnB markets?
