@@ -3,10 +3,10 @@
 
 ### Table of content
 ---------------
-* #####[Motivation](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#motivation)
-* #####[Installation](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#installation)
-* #####[Software versions](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#software-versions)
-* #####[File descriptions](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#file-Descriptions)
+* [Motivation](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#motivation)
+* [Installation](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#installation)
+* [Software versions](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#software-versions)
+* [File descriptions](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#file-Descriptions)
 
 
 ### Motivation
