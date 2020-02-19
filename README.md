@@ -68,4 +68,4 @@ There are 4 files related to data provided by AirBnB.
 The Kaggle Seattle data can be found [here](https://www.kaggle.com/airbnb/seattle/data).<br>
 The Kaggle Boston data can be found [here](https://www.kaggle.com/airbnb/boston).<br>
 This datasets are part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).<br>
-Thank you to [Udacity.com](https://classroom.udacity.com) for an amazing Data Science course.
+Thank you [Udacity.com](https://classroom.udacity.com) for an amazing Data Science course.
