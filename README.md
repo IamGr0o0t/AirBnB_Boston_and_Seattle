@@ -8,11 +8,12 @@
 2. How AirBnB prices are affected by the seasonality?
 3. What is the best predictor of price for Boston and Seattle AirBnB? How well can we model it?
 
-### Motivation
-
-I personally use 
 ---------------
-## Installation
+### Motivation
+I myself use AirBnB quite often. It was really important for me to come with some practical question that can be answered using data provided by AirBnB
+
+---------------
+### Installation
 All packages i have used were installed via most recent conda distribution.
 ```bash
 conda 4.8.2
