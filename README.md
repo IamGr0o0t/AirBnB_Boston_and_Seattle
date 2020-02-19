@@ -31,4 +31,4 @@ Boston and Seattle AirBnB data with the CRISP-DM (Cross Industry Process for Dat
 6. Deploy
 
     Deciding on potencial deployment strategies
-
+aaa
