@@ -1,13 +1,16 @@
 # Boston and Seattle AirBnB Udacity Project
 
 
+
+
 ### Table of content
 ---------------
 * [Motivation](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#motivation)
 * [Installation](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#installation)
 * [Software versions](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#software-versions)
 * [File descriptions](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#file-Descriptions)
-
+* [Results and Findings](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#results-and-findings)
+* [Licensing, Authors, Acknowledgements](https://github.com/IamGr0o0t/AirBnB_Boston_and_Seattle#licensing-authors-acknowledgements)
 
 ### Motivation
 ---------------
@@ -62,7 +65,7 @@ There are 4 files related to data provided by AirBnB.
 
 ### Licensing, Authors, Acknowledgements
 ---------------
-The Seattle data can be found [here](https://www.kaggle.com/airbnb/seattle/data).
-The Boston data can be found [here](https://www.kaggle.com/airbnb/boston).
-This datasets are part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).
+The Kaggle Seattle data can be found [here](https://www.kaggle.com/airbnb/seattle/data).<br>
+The Kaggle Boston data can be found [here](https://www.kaggle.com/airbnb/boston).<br>
+This datasets are part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).<br>
 Thank you to [Udacity.com](https://classroom.udacity.com) for an amazing Data Science course.
