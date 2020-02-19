@@ -9,13 +9,13 @@ If you wish to install some other packages please feel free and do it with conda
 conda install -c conda-forge (Insert Package Here)
 ```
 ### Software versions
-Anaconda version == 4.8.2
-Python version == 3.7.6
-pandas version == 1.0.1
-Numpy version == 1.18.1
-matplotlib version == 3.1.3
-seaborn version == 0.10.0
-sklearn version == 0.22.1
+* Anaconda version == 4.8.2
+* Python version == 3.7.6
+* pandas version == 1.0.1
+* Numpy version == 1.18.1
+* matplotlib version == 3.1.3
+* seaborn version == 0.10.0
+* sklearn version == 0.22.1
 
 Boston and Seattle AirBnB data with the CRISP-DM (Cross Industry Process for Data Mining
 
