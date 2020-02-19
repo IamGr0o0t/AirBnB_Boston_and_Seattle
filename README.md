@@ -1,6 +1,9 @@
+
 # Boston and Seattle AirBnB Udacity Project
 
-## This project tries to answer three major questions regarding AirBnB data within these two cities.
+
+
+### This project tries to answer three major questions regarding AirBnB data within these two cities.
 1. What are the key differences between Boston and Seattle AirbBnB markets?
 2. How AirBnB prices are affected by the seasonality?
 3. What is the best predictor of price for Boston and Seattle AirBnB? How well can we model it?
